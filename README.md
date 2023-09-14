@@ -1,7 +1,10 @@
 ### Hi there 👋
+### I'm MrGamz
+ A 14 year old that has to much time on their hands.
 
-- 🔭 I’m currently working on Various Minecraft Clients and School Exploits, and Other Things
-
+- 🔭 I’m currently working on....
+- Project Gateway
+- HyperOs
 
 
 <!--
