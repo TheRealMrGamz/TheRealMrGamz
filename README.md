@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I'm MrGamz
- A 14 year old that has to much time on their hands.
+  A 14 year old that has to much time on their hands.
+
+
+More Info: https://therealmrgamz.github.io/ 
 
 - 🔭 I’m currently working on....
 - Project Gateway
